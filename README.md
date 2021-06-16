@@ -2,6 +2,10 @@
 
 This is a smal Kotlin + Spring Boot app wich can fetch, merge and display data from an API using GraphQL.
 
+# Read more
+
+https://netflix.github.io/dgs
+
 ## How to run & test
 
 To run the app execute: 
