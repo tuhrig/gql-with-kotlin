@@ -1,0 +1,17 @@
+type Query {
+    find(userId: String): User
+}
+
+type User {
+    id: String
+    name: String
+    username: String
+    email: String
+    posts: [Post]
+}
+
+type Post {
+    id: String
+    title: String
+    body: String
+}
